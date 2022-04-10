@@ -1,5 +1,8 @@
 # Olivers-and-Idas-Front-End-Journey
 ## This weeks assignment
+### General requirements
+- Make sure to use appropriate headings etc so information is easy to read
+- Every choice, e.g what tags was used, color chosen, if list chosen to be orderd or not
 ### Ida assignment
 Create website with 2 sections. 
 - List of 3 resturants we should try, ordered from highest to lowest priority
@@ -12,9 +15,7 @@ Create website with 2 sections.
 - List of 3 reasons why Björn is really good personal trainer.
 - Bonus challange 1: Change text color of 3 reasons why Björn is really good personal trainer to a color that represent power
 - Bonus challange 2: Make title (the thing that is shown in on tab in chrome) something clever
-### General requirements
-- Make sure to use appropriate headings etc so information is easy to read
-- Every choice, e.g what tags was used, color chosen, if list chosen to be orderd or not
+
 ## Goal websites
 ### Björns
 - [Jant Resume Website](https://jant.fr/)
