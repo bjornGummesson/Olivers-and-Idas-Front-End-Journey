@@ -23,7 +23,7 @@ Create website with 2 sections.
 
 ### Oliver
 - [Space Posters](https://www.spaceposters.co/)
-- "Becuase i like it"
+- "Clean design and simple text"
 
 ### Idas
 - [Toy Fight](https://toyfight.co/)
