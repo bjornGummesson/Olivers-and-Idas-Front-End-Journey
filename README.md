@@ -25,3 +25,6 @@ Create website with 2 sections.
 - [Space Posters](https://www.spaceposters.co/)
 - "Becuase i like it"
 
+### Idas
+- [Toy Fight](https://toyfight.co/)
+- "För att jag är den enda sanna kungen av Kasinogaten"
