@@ -3,6 +3,7 @@
 ### General requirements
 - Make sure to use appropriate headings etc so information is easy to read
 - Every choice needs to be motivated on next meeting, e.g what tags was used, color chosen, if list chosen to be orderd or not 
+- Add images with links to sites that make sense for some of the list items
 ### Ida assignment
 Create website with 2 sections. 
 - List of 3 resturants we should try, ordered from highest to lowest priority
